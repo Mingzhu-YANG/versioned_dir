@@ -17,8 +17,6 @@ files". You can
                      commit new versions of individual files if you 
 want, but this
                      is not recommended.
-
-
 (5)  git diff             : Tell git to show the differences between 
 the files in the working
                             directory and the last saved version in 
